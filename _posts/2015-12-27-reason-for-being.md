@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-27T02:38:00.255Z'
-dateModified: '2015-12-27T02:37:49.044Z'
+datePublished: '2015-12-27T02:41:49.841Z'
+dateModified: '2015-12-27T02:41:44.583Z'
 title: Reason for being
 author: []
 sourcePath: _posts/2015-12-27-reason-for-being.md
@@ -22,4 +22,4 @@ url: reason-for-being/index.html
 _type: Article
 
 ---
-Life's journey involves ups and downs; we all know that. But let's recognize that there are no 'goods' or 'bads'. Let's think in terms of 'sweets' and 'salties' instead. It's all perspective, after all. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/92c4e4c5bbd2e7c4f9e8d6da709a2188807fdc8b.jpg)
+Life's journey involves ups and downs; we all know that. But let's recognize that there are no 'goods' or 'bads'. Let's think in terms of 'sweets' and 'salties' instead. It's all perspective, after all. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3c04ea9563b36de7ee80a2bc10671c7f3669138f.jpg)
