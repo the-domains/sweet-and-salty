@@ -1,7 +1,7 @@
 name: Sweet and Salty
 favicon: null
-layout_spectrum: 0.1457153877709061
-typography_spectrum: 0.6588891928549856
+layout_spectrum: 0.97945
+typography_spectrum: 0.72602
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.6545837863814086
-  lightness: 0.16933514084666967
+    - '#fefefe'
+    - '#0e0906'
+    - '#a18876'
+    - '#3f3432'
+    - '#745f4e'
+  brandStrength: 0.5
+  lightness: 0.1875
   saturation: 0.2908130034338683
-  rhythmicContrast: 0.8722030757926404
+  rhythmicContrast: 0.75
 purpose: []
