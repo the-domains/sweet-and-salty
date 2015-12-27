@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Sweet and Salty]]></title>
         <description><![CDATA[Sweet and Salty]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sweet-and-salty/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Dec 2015 02:28:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 27 Dec 2015 02:35:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sweet-and-salty/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bowen 2015]]></title>
+            <description><![CDATA[<article><h1>Bowen 2015</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/24a8dc1e26eea533a76ca2929b467866c80708dc.jpg"></article>]]></description>
+            <link>https://thegrid.ai/sweet-and-salty/bowen-2015/index.html</link>
+            <guid isPermaLink="false">990cc25a-f0f0-4084-aff1-d61587845536</guid>
+            <pubDate>Sun, 27 Dec 2015 02:35:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Reason for being]]></title>
             <description><![CDATA[<article><h1>Reason for being</h1><p>Life's journey involves ups and downs; we all know that. But let's recognize that there are no 'goods' or 'bads'. Let's think in terms of 'sweets' and 'salties' instead. It's all perspective, after all. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/92c4e4c5bbd2e7c4f9e8d6da709a2188807fdc8b.jpg"></article>]]></description>
-            <link>undefinedreason-for-being/index.html</link>
+            <link>https://thegrid.ai/sweet-and-salty/reason-for-being/index.html</link>
             <guid isPermaLink="false">e404735c-c537-45bd-a54a-3919019d490c</guid>
             <pubDate>Sun, 27 Dec 2015 02:28:01 GMT</pubDate>
         </item>
